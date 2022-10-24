@@ -1,2 +1,2 @@
 # react-food-delivery
-Created with CodeSandbox
+Food delivery starter. ReactJS
